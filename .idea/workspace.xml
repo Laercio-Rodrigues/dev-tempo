@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="124c91ce-f191-416a-9e61-7df8842b3959" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.claude/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AGENTS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLAUDE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(tabs)/two.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/+html.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/+not-found.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/modal.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/SpaceMono-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/EditScreenInfo.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ExternalLink.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/StyledText.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Themed.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/__tests__/StyledText-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/useClientOnlyValue.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/useClientOnlyValue.web.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/useColorScheme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/useColorScheme.web.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/Colors.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchBar.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
